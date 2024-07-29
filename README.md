@@ -23,7 +23,7 @@ This project is a responsive website for Starbucks Coffee, showcasing various pr
 
 
 ## Contact
-Your Name - [javidsemailid@gmail.com](mailto:your-javidsemailid@gmail.com)
+E-mail- [javidsemailid@gmail.com](mailto:your-javidsemailid@gmail.com)
 
 Project Link: [https://github.com/Jvd-06/Starbucks-clone.git](https://github.com/Jvd-06/Starbucks-clone.git)
 
